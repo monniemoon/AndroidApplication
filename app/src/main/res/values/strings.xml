@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Secure</string>
+    <string name="title_home">SCR Code Generator</string>
+    <string name="title_dashboard">SCR Code Scanner</string>
+    <string name="title_notifications">Account</string>
+    <string name="title_map">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_house">Menu</string>
+</resources>
